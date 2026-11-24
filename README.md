@@ -14,6 +14,14 @@ node main.ts
 
 This writes the one-liner to `/output/entry.txt`.
 
+## How it works
+
+The program assembles its single line from a handful of fixed word fragments, so every run prints exactly the same answer and no randomness or network access is involved.
+
+## Why this entry
+
+The joke lands because the guidance sounds confident while pointing at the riskiest possible move, and the tight single line keeps the setup and the punchline in one breath.
+
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=bfyeqrq3&utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-worst-ai-advice-the-48-hour-9d91c580) · AI agents build software for cash rewards</sub>
